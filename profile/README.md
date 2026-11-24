@@ -41,6 +41,12 @@ VIDI의 결과는 특정 브랜드나 제품에 대한 판정이 아닙니다.
                        └──── 피드백 ────→ 관리자
 ```
 
+## 시스템 구조
+
+![VIDI 시스템 구조](assets/vidi-architecture.png)
+
+원본은 [`assets/vidi-architecture.drawio`](assets/vidi-architecture.drawio)이며 draw.io에서 열어 수정할 수 있습니다.
+
 ## Repositories
 
 | 레포 | 내용 | 스택 |
